@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-**Flaviabel/Flaviabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  🌱 I’m currently learning React.js
  📫 How to reach me: flaviamanfredi521@gmail.com/ https://www.linkedin.com/in/flavia-manfredi-43ab3a1b8/
 
