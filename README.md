@@ -6,3 +6,9 @@
 
 ## Skills
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="100" /></a>
+
