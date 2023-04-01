@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Angular
 
 <img src="https://github-readme-stats.vercel.app/api?username=Flaviabel&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
