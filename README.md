@@ -4,8 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Flaviabel&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 ## Skills
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://findicons.com/files/icons/2804/plex/256/html5.png" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon-thumbnail.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.seekpng.com/png/small/222-2229726_intro-to-html-css-html-css-icon.png" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://off.tokyo/wp-content/uploads/2021/02/react.jpg" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.dave-beaumont.co.uk/wp-content/uploads/2022/02/nextjs.png" height="100" /></a>
